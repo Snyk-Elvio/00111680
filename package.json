@@ -50,7 +50,7 @@
     "@adsk/bim360-feature-flag": "^1.7.0",
     "@adsk/bim360-mailer-renderer": "^2.7.1",
     "@adsk/docs-js-sdk": "^3.32.1",
-    "@aws-sdk/client-secrets-manager": "^3.750.0",
+    "@aws-sdk/client-secrets-manager": "^3.840.0",
     "@aws-sdk/client-sqs": "3.445.0",
     "@babel/runtime": "^7.12.5",
     "@nestjs/axios": "^3.0.3",
