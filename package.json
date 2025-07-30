@@ -68,7 +68,7 @@
     "@sendgrid/client": "^8.0.0",
     "@sendgrid/mail": "^8.0.0",
     "@types/express-serve-static-core": "^4.17.28",
-    "aws-sdk": "^2.1354.0",
+    "aws-sdk": "^2.1692.0",
     "cache-manager": "^5.5.2",
     "cache-manager-redis-store": "^2.0.0",
     "class-validator": "^0.14.0",
