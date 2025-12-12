@@ -78,7 +78,7 @@
     "joi": "^17.7.0",
     "jsonwebtoken": "^9.0.1",
     "lodash": "^4.17.21",
-    "mailparser": "^3.7.1",
+    "mailparser": "^3.9.1",
     "moment": "^2.29.4",
     "mysql2": "^3.9.8",
     "rimraf": "^2.6.2",
